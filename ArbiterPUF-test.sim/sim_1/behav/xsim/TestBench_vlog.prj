@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ArbiterPUF-test.srcs/sources_1/new/1bit_arbiter.v" \
+"../../../../ArbiterPUF-test.srcs/sources_1/new/Arbiter_PUF.v" \
+"../../../../ArbiterPUF-test.srcs/sources_1/new/decision.v" \
+"../../../../ArbiterPUF-test.srcs/sources_1/new/selector.v" \
+"../../../../ArbiterPUF-test.srcs/sim_1/new/TestBench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

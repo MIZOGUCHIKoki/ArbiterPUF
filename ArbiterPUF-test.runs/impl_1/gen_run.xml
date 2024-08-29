@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1724289147">
+  <File Type="ROUTE-PWR" Name="Arbiter_PUF_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Arbiter_PUF.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="Arbiter_PUF_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Arbiter_PUF_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="Arbiter_PUF_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="Arbiter_PUF.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Arbiter_PUF_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Arbiter_PUF_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="Arbiter_PUF_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Arbiter_PUF_opt.dcp"/>
+  <File Type="OPT-DRC" Name="Arbiter_PUF_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Arbiter_PUF.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Arbiter_PUF_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Arbiter_PUF_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Arbiter_PUF_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Arbiter_PUF_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Arbiter_PUF_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Arbiter_PUF_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Arbiter_PUF_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Arbiter_PUF_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Arbiter_PUF_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Arbiter_PUF_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Arbiter_PUF_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="Arbiter_PUF.bin"/>
+  <File Type="PLACE-TIMING" Name="Arbiter_PUF_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="Arbiter_PUF_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="Arbiter_PUF_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Arbiter_PUF_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="Arbiter_PUF.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Arbiter_PUF_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Arbiter_PUF_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Arbiter_PUF_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="Arbiter_PUF.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="Arbiter_PUF_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Arbiter_PUF_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Arbiter_PUF_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Arbiter_PUF_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Arbiter_PUF_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Arbiter_PUF_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Arbiter_PUF_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Arbiter_PUF_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Arbiter_PUF_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Arbiter_PUF_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="Arbiter_PUF_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="Arbiter_PUF_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Arbiter_PUF_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Arbiter_PUF_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Arbiter_PUF_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Arbiter_PUF_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Arbiter_PUF_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Arbiter_PUF_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Arbiter_PUF_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Arbiter_PUF_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Arbiter_PUF_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Arbiter_PUF_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Arbiter_PUF_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Arbiter_PUF_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Arbiter_PUF_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Arbiter_PUF_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Arbiter_PUF_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="Arbiter_PUF.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Arbiter_PUF_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Arbiter_PUF_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="Arbiter_PUF.nky"/>
+  <File Type="BITSTR-BMM" Name="Arbiter_PUF_bd.bmm"/>
+  <File Type="PDI-FILE" Name="Arbiter_PUF.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="Arbiter_PUF_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="Arbiter_PUF_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="Arbiter_PUF.rcfi"/>
+  <File Type="CFI_FILE" Name="Arbiter_PUF.cfi"/>
+  <File Type="RNPI_FILE" Name="Arbiter_PUF.rnpi"/>
+  <File Type="NPI_FILE" Name="Arbiter_PUF.npi"/>
+  <File Type="RBD_FILE" Name="Arbiter_PUF.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Arbiter_PUF.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Arbiter_PUF.sysdef"/>
+  <File Type="BG-BGN" Name="Arbiter_PUF.bgn"/>
+  <File Type="BG-DRC" Name="Arbiter_PUF.drc"/>
+  <File Type="RDI-RDI" Name="Arbiter_PUF.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="Arbiter_PUF_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="Arbiter_PUF_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/1bit_arbiter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/decision.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/selector.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Arbiter_PUF.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Arbiter_PUF"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/myConf.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/myConf.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/Arbiter_PUF.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
