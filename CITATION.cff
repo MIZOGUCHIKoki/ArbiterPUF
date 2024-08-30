@@ -1,0 +1,17 @@
+@inproceedings{SiliconPhysicalRandomFunctions2002,
+author = {Gassend, Blaise and Clarke, Dwaine and van Dijk, Marten and Devadas, Srinivas},
+title = {Silicon physical random functions},
+year = {2002},
+isbn = {1581136129},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/586110.586132},
+doi = {10.1145/586110.586132},
+abstract = {We introduce the notion of a Physical Random Function (PUF). We argue that a complex integrated circuit can be viewed as a silicon PUF and describe a technique to identify and authenticate individual integrated circuits (ICs).We describe several possible circuit realizations of different PUFs. These circuits have been implemented in commodity Field Programmable Gate Arrays (FPGAs). We present experiments which indicate that reliable authentication of individual FPGAs can be performed even in the presence of significant environmental variations.We describe how secure smart cards can be built, and also briefly describe how PUFs can be applied to licensing and certification applications.},
+booktitle = {Proceedings of the 9th ACM Conference on Computer and Communications Security},
+pages = {148–160},
+numpages = {13},
+keywords = {unclonability, tamper resistance, smartcard, physical security, physical random function, identification},
+location = {Washington, DC, USA},
+series = {CCS '02}
+}
